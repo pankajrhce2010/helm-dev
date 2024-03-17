@@ -1,4 +1,4 @@
 replicas: 2
-configMap:
-  data: Custom_Header : This is helm deployment
- 
+configmap:
+  data:
+   CUSTOME_HEADER : This is helm deployment
